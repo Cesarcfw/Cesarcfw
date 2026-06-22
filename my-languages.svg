@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="260" viewBox="0 0 530 260">
+  <defs>
+    <linearGradient id="headerGradLangs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8257e6" />
+      <stop offset="100%" stop-color="#3a1c1c" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+  <style>
+    .card { fill: #121214; stroke: #8257e6; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
+    .header-bar { fill: url(#headerGradLangs); height: 12px; rx: 12px 12px 0 0; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #8257e6; }
+    .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #7c7c8a; }
+    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #e1e1e6; }
+    .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #8257e6; font-weight: bold; }
+  </style>
+  <rect width="530" height="260" class="card" />
+  <rect width="530" height="12" class="header-bar" />
+  
+  <g transform="translate(25, 45)">
+    <text x="0" y="0" class="title">Linguagens Mais Utilizadas</text>
+    <text x="0" y="20" class="subtitle">Linguagens dominantes nos repositórios ativos</text>
+  </g>
+  <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
+
+  <g transform="translate(25, 100)">
+    <rect x="0" y="0" width="162.406015037594" height="12" fill="#3178c6" rx="6" ry="6"  /><rect x="162.406015037594" y="0" width="108.27067669172932" height="12" fill="#f7df1e"   /><rect x="162.406015037594" y="0" width="4" height="12" fill="#f7df1e" /><rect x="270.6766917293233" y="0" width="90.22556390977444" height="12" fill="#41b883"   /><rect x="270.6766917293233" y="0" width="4" height="12" fill="#41b883" /><rect x="360.90225563909775" y="0" width="83.00751879699247" height="12" fill="#3572A5"   /><rect x="360.90225563909775" y="0" width="4" height="12" fill="#3572A5" /><rect x="443.90977443609023" y="0" width="36.09022556390977" height="12" fill="#f34b7d"  rx="6" ry="6" /><rect x="443.90977443609023" y="0" width="4" height="12" fill="#f34b7d" />
+  </g>
+
+  <g transform="translate(25, 135)">
+    
+      <g transform="translate(0, 0)">
+        <circle cx="5" cy="5" r="5" fill="#3178c6" />
+        <text x="18" y="9" class="label">TypeScript</text>
+        <text x="160" y="9" class="value">33.8%</text>
+      </g>
+    
+      <g transform="translate(250, 0)">
+        <circle cx="5" cy="5" r="5" fill="#f7df1e" />
+        <text x="18" y="9" class="label">JavaScript</text>
+        <text x="160" y="9" class="value">22.6%</text>
+      </g>
+    
+      <g transform="translate(0, 28)">
+        <circle cx="5" cy="5" r="5" fill="#41b883" />
+        <text x="18" y="9" class="label">Vue</text>
+        <text x="160" y="9" class="value">18.8%</text>
+      </g>
+    
+      <g transform="translate(250, 28)">
+        <circle cx="5" cy="5" r="5" fill="#3572A5" />
+        <text x="18" y="9" class="label">Python</text>
+        <text x="160" y="9" class="value">17.3%</text>
+      </g>
+    
+      <g transform="translate(0, 56)">
+        <circle cx="5" cy="5" r="5" fill="#f34b7d" />
+        <text x="18" y="9" class="label">C++</text>
+        <text x="160" y="9" class="value">7.5%</text>
+      </g>
+    
+  </g>
+
+  <line x1="25" y1="225" x2="505" y2="225" stroke="#29292e" stroke-width="1" />
+  <text x="25" y="245" class="subtitle">Atualizado via GitHub Actions</text>
+</svg>
+  

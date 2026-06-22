@@ -1,0 +1,41 @@
+name: Generate My Custom Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch: # Permite executar manualmente pelo painel "Actions" do GitHub
+  push:
+    branches:
+      - main
+      - test-custom-stats
+    paths:
+      - 'generate-stats.js'
+      - '.github/workflows/my-stats.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Generate SVG Card
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: node generate-stats.js
+
+      - name: Commit and Push SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add my-stats.svg my-languages.svg my-streak.svg
+          git commit -m "docs: update custom stats SVGs [skip ci]" || exit 0
+          git push
