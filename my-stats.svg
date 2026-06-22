@@ -21,7 +21,7 @@
   <rect width="530" height="260" class="card" />
   <rect width="530" height="12" class="header-bar" />
   <g transform="translate(25, 45)">
-    <text x="0" y="0" class="title">Estatísticas do Git — César Filho</text>
+    <text x="0" y="0" class="title">Estatísticas do Git — Cesarcfw</text>
     <text x="0" y="20" class="subtitle">Dados de repositórios públicos e privados</text>
   </g>
   <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
@@ -31,24 +31,24 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">355</text>
-      <text x="195" y="-4" class="subtitle">(210 pub / 145 priv)</text>
+      <text x="145" y="-3" class="value">116</text>
+      <text x="195" y="-4" class="subtitle">(91 pub / 25 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
       <text x="25" y="-3" class="label">Repositórios:</text>
-      <text x="145" y="-3" class="value">28</text>
-      <text x="195" y="-4" class="subtitle">(27 pub / 1 priv)</text>
+      <text x="145" y="-3" class="value">11</text>
+      <text x="195" y="-4" class="subtitle">(9 pub / 2 priv)</text>
     </g>
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">🔀</text>
       <text x="25" y="-3" class="label">Pull Requests:</text>
-      <text x="145" y="-3" class="value">18</text>
+      <text x="145" y="-3" class="value">0</text>
     </g>
     <g transform="translate(0, 90)">
       <text x="0" y="0" class="icon">❗</text>
       <text x="25" y="-3" class="label">Issues Abertas:</text>
-      <text x="145" y="-3" class="value">4</text>
+      <text x="145" y="-3" class="value">1</text>
     </g>
   </g>
   
@@ -57,17 +57,17 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">⭐</text>
       <text x="25" y="-3" class="label">Estrelas:</text>
-      <text x="110" y="-3" class="value">17</text>
+      <text x="110" y="-3" class="value">0</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">🍴</text>
       <text x="25" y="-3" class="label">Forks:</text>
-      <text x="110" y="-3" class="value">4</text>
+      <text x="110" y="-3" class="value">0</text>
     </g>
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">👥</text>
       <text x="25" y="-3" class="label">Seguidores:</text>
-      <text x="110" y="-3" class="value">84</text>
+      <text x="110" y="-3" class="value">6</text>
     </g>
   </g>
   
