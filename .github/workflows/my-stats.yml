@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - main
-      - test-custom-stats
     paths:
       - 'generate-stats.js'
       - '.github/workflows/my-stats.yml'
