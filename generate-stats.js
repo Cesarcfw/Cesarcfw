@@ -153,21 +153,22 @@ function generateStatsSVG(data) {
   return `
 <svg xmlns="http://www.w3.org/2000/svg" width="530" height="260" viewBox="0 0 530 260">
   <defs>
+    <!-- Gradiente Cyan-to-Blue do Portfólio -->
     <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8257e6" />
-      <stop offset="100%" stop-color="#3a1c1c" />
+      <stop offset="0%" stop-color="#13dfb3" />
+      <stop offset="100%" stop-color="#2563eb" />
     </linearGradient>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5" />
     </filter>
   </defs>
   <style>
-    .card { fill: #121214; stroke: #8257e6; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
+    .card { fill: #121214; stroke: #13dfb3; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
     .header-bar { fill: url(#headerGrad); height: 12px; rx: 12px 12px 0 0; }
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #8257e6; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #13dfb3; }
     .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #7c7c8a; }
     .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #e1e1e6; font-weight: 500; }
-    .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #8257e6; font-weight: bold; }
+    .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #13dfb3; font-weight: bold; }
     .icon { font-size: 16px; }
   </style>
   <rect width="530" height="260" class="card" />
@@ -204,7 +205,7 @@ function generateStatsSVG(data) {
     </g>
   </g>
   
-  <!-- Coluna 2 (Ajustada para o lado para evitar overlap) -->
+  <!-- Coluna 2 -->
   <g transform="translate(365, 110)">
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">⭐</text>
@@ -296,21 +297,22 @@ function generateLanguagesSVG(data) {
   return `
 <svg xmlns="http://www.w3.org/2000/svg" width="530" height="260" viewBox="0 0 530 260">
   <defs>
+    <!-- Gradiente Cyan-to-Blue do Portfólio -->
     <linearGradient id="headerGradLangs" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8257e6" />
-      <stop offset="100%" stop-color="#3a1c1c" />
+      <stop offset="0%" stop-color="#13dfb3" />
+      <stop offset="100%" stop-color="#2563eb" />
     </linearGradient>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5" />
     </filter>
   </defs>
   <style>
-    .card { fill: #121214; stroke: #8257e6; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
+    .card { fill: #121214; stroke: #13dfb3; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
     .header-bar { fill: url(#headerGradLangs); height: 12px; rx: 12px 12px 0 0; }
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #8257e6; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #13dfb3; }
     .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #7c7c8a; }
     .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #e1e1e6; }
-    .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #8257e6; font-weight: bold; }
+    .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #13dfb3; font-weight: bold; }
   </style>
   <rect width="530" height="260" class="card" />
   <rect width="530" height="12" class="header-bar" />
@@ -382,21 +384,22 @@ function generateStreakSVG(data) {
   return `
 <svg xmlns="http://www.w3.org/2000/svg" width="530" height="260" viewBox="0 0 530 260">
   <defs>
+    <!-- Gradiente Cyan-to-Blue do Portfólio -->
     <linearGradient id="headerGradStreak" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8257e6" />
-      <stop offset="100%" stop-color="#3a1c1c" />
+      <stop offset="0%" stop-color="#13dfb3" />
+      <stop offset="100%" stop-color="#2563eb" />
     </linearGradient>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5" />
     </filter>
   </defs>
   <style>
-    .card { fill: #121214; stroke: #8257e6; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
+    .card { fill: #121214; stroke: #13dfb3; stroke-width: 1.5; rx: 12px; filter: url(#shadow); }
     .header-bar { fill: url(#headerGradStreak); height: 12px; rx: 12px 12px 0 0; }
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #8257e6; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: bold; fill: #13dfb3; }
     .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #7c7c8a; }
     .streak-val { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 28px; font-weight: 800; fill: #ffffff; text-anchor: middle; }
-    .streak-lbl { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #8257e6; font-weight: bold; text-anchor: middle; }
+    .streak-lbl { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #13dfb3; font-weight: bold; text-anchor: middle; }
     .streak-sub { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 10px; fill: #7c7c8a; text-anchor: middle; }
   </style>
   <rect width="530" height="260" class="card" />
@@ -420,8 +423,8 @@ function generateStreakSVG(data) {
 
   <!-- Estatística 2: Streak Atual -->
   <g transform="translate(265, 140)">
-    <text x="0" y="0" class="streak-val" fill="#8257e6">${currentStreak} dias</text>
-    <text x="0" y="25" class="streak-lbl" fill="#8257e6">STREAK ATUAL</text>
+    <text x="0" y="0" class="streak-val" fill="#13dfb3">${currentStreak} dias</text>
+    <text x="0" y="25" class="streak-lbl" fill="#13dfb3">STREAK ATUAL</text>
     <text x="0" y="40" class="streak-sub">Fogo aceso!</text>
   </g>
 

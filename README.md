@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,100:8257e6&height=230&section=header&text=Olá,%20sou%20o%20César!&subtitle=Desenvolvedor%20&%20Estudante%20de%20Ciência%20da%20Computação&fontSize=45&fontAlignY=35&subtitleAlignY=60&fontColor=ffffff" alt="Banner de Boas-vindas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13dfb3,100:2563eb&height=230&section=header&text=Olá,%20sou%20o%20César!&subtitle=Desenvolvedor%20&%20Estudante%20de%20Ciência%20da%20Computação&fontSize=45&fontAlignY=35&subtitleAlignY=60&fontColor=ffffff" alt="Banner de Boas-vindas" />
 </div>
 
 <br>
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/cesarcfw/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Cesarcfw&color=8257e6&style=for-the-badge" alt="Visualizações do Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Cesarcfw&color=13dfb3&style=for-the-badge" alt="Visualizações do Perfil" />
 </div>
 
 <br>
