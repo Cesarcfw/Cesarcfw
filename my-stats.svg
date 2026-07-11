@@ -32,8 +32,8 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">156</text>
-      <text x="195" y="-4" class="subtitle">(105 pub / 51 priv)</text>
+      <text x="145" y="-3" class="value">162</text>
+      <text x="195" y="-4" class="subtitle">(111 pub / 51 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
@@ -44,7 +44,7 @@
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">🔀</text>
       <text x="25" y="-3" class="label">Pull Requests:</text>
-      <text x="145" y="-3" class="value">5</text>
+      <text x="145" y="-3" class="value">6</text>
     </g>
     <g transform="translate(0, 90)">
       <text x="0" y="0" class="icon">❗</text>
@@ -58,7 +58,7 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">⭐</text>
       <text x="25" y="-3" class="label">Estrelas:</text>
-      <text x="110" y="-3" class="value">0</text>
+      <text x="110" y="-3" class="value">1</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">🍴</text>
