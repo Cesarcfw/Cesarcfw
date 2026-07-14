@@ -28,7 +28,7 @@
   <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
 
   <g transform="translate(25, 100)">
-    <rect x="0" y="0" width="302.56758123167305" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="302.56758123167305" y="0" width="97.82698955026571" height="12" fill="#3572A5"   /><rect x="302.56758123167305" y="0" width="4" height="12" fill="#3572A5" /><rect x="400.39457078193874" y="0" width="31.267262783791242" height="12" fill="#e34c26"   /><rect x="400.39457078193874" y="0" width="4" height="12" fill="#e34c26" /><rect x="431.66183356573" y="0" width="26.59013598011667" height="12" fill="#b07219"   /><rect x="431.66183356573" y="0" width="4" height="12" fill="#b07219" /><rect x="458.25196954584663" y="0" width="21.748030454153366" height="12" fill="#3178c6"  rx="6" ry="6" /><rect x="458.25196954584663" y="0" width="4" height="12" fill="#3178c6" />
+    <rect x="0" y="0" width="302.65502802357673" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="302.65502802357673" y="0" width="97.77877594613882" height="12" fill="#3572A5"   /><rect x="302.65502802357673" y="0" width="4" height="12" fill="#3572A5" /><rect x="400.43380396971554" y="0" width="31.251852850020214" height="12" fill="#e34c26"   /><rect x="400.43380396971554" y="0" width="4" height="12" fill="#e34c26" /><rect x="431.68565681973575" y="0" width="26.57703114784371" height="12" fill="#b07219"   /><rect x="431.68565681973575" y="0" width="4" height="12" fill="#b07219" /><rect x="458.26268796757944" y="0" width="21.73731203242051" height="12" fill="#3178c6"  rx="6" ry="6" /><rect x="458.26268796757944" y="0" width="4" height="12" fill="#3178c6" />
   </g>
 
   <g transform="translate(25, 135)">
@@ -36,7 +36,7 @@
       <g transform="translate(0, 0)">
         <circle cx="5" cy="5" r="5" fill="#f1e05a" />
         <text x="18" y="9" class="label">JavaScript</text>
-        <text x="160" y="9" class="value">63.0%</text>
+        <text x="160" y="9" class="value">63.1%</text>
       </g>
     
       <g transform="translate(250, 0)">
