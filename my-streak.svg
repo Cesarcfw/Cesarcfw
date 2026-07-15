@@ -30,7 +30,7 @@
 
   <!-- Estatística 1: Total Contribs -->
   <g transform="translate(95, 140)">
-    <text x="0" y="0" class="streak-val">181</text>
+    <text x="0" y="0" class="streak-val">187</text>
     <text x="0" y="25" class="streak-lbl">TOTAL DE CONTRIBS</text>
     <text x="0" y="40" class="streak-sub">Último ano</text>
   </g>
