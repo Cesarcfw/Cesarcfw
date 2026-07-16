@@ -30,7 +30,7 @@
 
   <!-- Estatística 1: Total Contribs -->
   <g transform="translate(95, 140)">
-    <text x="0" y="0" class="streak-val">187</text>
+    <text x="0" y="0" class="streak-val">190</text>
     <text x="0" y="25" class="streak-lbl">TOTAL DE CONTRIBS</text>
     <text x="0" y="40" class="streak-sub">Último ano</text>
   </g>
@@ -40,7 +40,7 @@
 
   <!-- Estatística 2: Streak Atual -->
   <g transform="translate(265, 140)">
-    <text x="0" y="0" class="streak-val" fill="#13dfb3">1 dias</text>
+    <text x="0" y="0" class="streak-val" fill="#13dfb3">2 dias</text>
     <text x="0" y="25" class="streak-lbl" fill="#13dfb3">STREAK ATUAL</text>
     <text x="0" y="40" class="streak-sub">Fogo aceso!</text>
   </g>
