@@ -28,7 +28,7 @@
   <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
 
   <g transform="translate(25, 100)">
-    <rect x="0" y="0" width="300.74273516399893" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="300.74273516399893" y="0" width="94.76035392294695" height="12" fill="#3572A5"   /><rect x="300.74273516399893" y="0" width="4" height="12" fill="#3572A5" /><rect x="395.50308908694586" y="0" width="31.32043956610904" height="12" fill="#e34c26"   /><rect x="395.50308908694586" y="0" width="4" height="12" fill="#e34c26" /><rect x="426.8235286530549" y="0" width="27.41987076137287" height="12" fill="#3178c6"   /><rect x="426.8235286530549" y="0" width="4" height="12" fill="#3178c6" /><rect x="454.24339941442776" y="0" width="25.756600585572222" height="12" fill="#b07219"  rx="6" ry="6" /><rect x="454.24339941442776" y="0" width="4" height="12" fill="#b07219" />
+    <rect x="0" y="0" width="299.29426637822775" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="299.29426637822775" y="0" width="93.81834811642749" height="12" fill="#3572A5"   /><rect x="299.29426637822775" y="0" width="4" height="12" fill="#3572A5" /><rect x="393.11261449465525" y="0" width="34.23953760380988" height="12" fill="#e34c26"   /><rect x="393.11261449465525" y="0" width="4" height="12" fill="#e34c26" /><rect x="427.3521520984651" y="0" width="27.147291814567446" height="12" fill="#3178c6"   /><rect x="427.3521520984651" y="0" width="4" height="12" fill="#3178c6" /><rect x="454.49944391303256" y="0" width="25.500556086967453" height="12" fill="#b07219"  rx="6" ry="6" /><rect x="454.49944391303256" y="0" width="4" height="12" fill="#b07219" />
   </g>
 
   <g transform="translate(25, 135)">
@@ -36,19 +36,19 @@
       <g transform="translate(0, 0)">
         <circle cx="5" cy="5" r="5" fill="#f1e05a" />
         <text x="18" y="9" class="label">JavaScript</text>
-        <text x="160" y="9" class="value">62.7%</text>
+        <text x="160" y="9" class="value">62.4%</text>
       </g>
     
       <g transform="translate(250, 0)">
         <circle cx="5" cy="5" r="5" fill="#3572A5" />
         <text x="18" y="9" class="label">Python</text>
-        <text x="160" y="9" class="value">19.7%</text>
+        <text x="160" y="9" class="value">19.5%</text>
       </g>
     
       <g transform="translate(0, 28)">
         <circle cx="5" cy="5" r="5" fill="#e34c26" />
         <text x="18" y="9" class="label">HTML</text>
-        <text x="160" y="9" class="value">6.5%</text>
+        <text x="160" y="9" class="value">7.1%</text>
       </g>
     
       <g transform="translate(250, 28)">
@@ -60,7 +60,7 @@
       <g transform="translate(0, 56)">
         <circle cx="5" cy="5" r="5" fill="#b07219" />
         <text x="18" y="9" class="label">Java</text>
-        <text x="160" y="9" class="value">5.4%</text>
+        <text x="160" y="9" class="value">5.3%</text>
       </g>
     
   </g>
