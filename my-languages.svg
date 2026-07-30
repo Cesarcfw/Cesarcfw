@@ -28,7 +28,7 @@
   <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
 
   <g transform="translate(25, 100)">
-    <rect x="0" y="0" width="299.29426637822775" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="299.29426637822775" y="0" width="93.81834811642749" height="12" fill="#3572A5"   /><rect x="299.29426637822775" y="0" width="4" height="12" fill="#3572A5" /><rect x="393.11261449465525" y="0" width="34.23953760380988" height="12" fill="#e34c26"   /><rect x="393.11261449465525" y="0" width="4" height="12" fill="#e34c26" /><rect x="427.3521520984651" y="0" width="27.147291814567446" height="12" fill="#3178c6"   /><rect x="427.3521520984651" y="0" width="4" height="12" fill="#3178c6" /><rect x="454.49944391303256" y="0" width="25.500556086967453" height="12" fill="#b07219"  rx="6" ry="6" /><rect x="454.49944391303256" y="0" width="4" height="12" fill="#b07219" />
+    <rect x="0" y="0" width="299.3562242030981" height="12" fill="#f1e05a" rx="6" ry="6"  /><rect x="299.3562242030981" y="0" width="93.77415355847671" height="12" fill="#3572A5"   /><rect x="299.3562242030981" y="0" width="4" height="12" fill="#3572A5" /><rect x="393.13037776157483" y="0" width="34.246574905348204" height="12" fill="#e34c26"   /><rect x="393.13037776157483" y="0" width="4" height="12" fill="#e34c26" /><rect x="427.37695266692305" y="0" width="27.13450367039956" height="12" fill="#3178c6"   /><rect x="427.37695266692305" y="0" width="4" height="12" fill="#3178c6" /><rect x="454.5114563373226" y="0" width="25.48854366267744" height="12" fill="#b07219"  rx="6" ry="6" /><rect x="454.5114563373226" y="0" width="4" height="12" fill="#b07219" />
   </g>
 
   <g transform="translate(25, 135)">
