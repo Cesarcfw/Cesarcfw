@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Olá! Sou César, estudante do último semestre de Ciência da Computação e desenvolvedor em formação, com experiência prática desde 2024 em desenvolvimento de sistemas, automação, dashboards, integrações e banco de dados.
+Olá! Sou César, estudante do último semestre de Ciência da Computação e desenvolvedor em formação, com experiência prática do mercado de trabalho desde 2024 em desenvolvimento de sistemas, automação, dashboards, integrações e banco de dados.
 
 Atualmente atuo com JavaScript, Vue.js, Node.js, Node-RED, MySQL, Make e ferramentas de servidor, participando da construção e manutenção de soluções utilizadas em ambiente real.
 
