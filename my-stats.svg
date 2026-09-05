@@ -22,7 +22,7 @@
   <rect width="530" height="260" class="card" />
   <rect width="530" height="12" class="header-bar" />
   <g transform="translate(25, 45)">
-    <text x="0" y="0" class="title">Estatísticas do Git — Cesarcfw</text>
+    <text x="0" y="0" class="title">Estatísticas do Git — César</text>
     <text x="0" y="20" class="subtitle">Dados de repositórios públicos e privados</text>
   </g>
   <line x1="25" y1="80" x2="505" y2="80" stroke="#29292e" stroke-width="1" />
@@ -32,14 +32,14 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">190</text>
-      <text x="195" y="-4" class="subtitle">(105 pub / 85 priv)</text>
+      <text x="145" y="-3" class="value">196</text>
+      <text x="195" y="-4" class="subtitle">(105 pub / 91 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
       <text x="25" y="-3" class="label">Repositórios:</text>
-      <text x="145" y="-3" class="value">13</text>
-      <text x="195" y="-4" class="subtitle">(8 pub / 5 priv)</text>
+      <text x="145" y="-3" class="value">14</text>
+      <text x="195" y="-4" class="subtitle">(8 pub / 6 priv)</text>
     </g>
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">🔀</text>
