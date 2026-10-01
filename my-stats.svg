@@ -32,14 +32,14 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">223</text>
-      <text x="195" y="-4" class="subtitle">(113 pub / 110 priv)</text>
+      <text x="145" y="-3" class="value">231</text>
+      <text x="195" y="-4" class="subtitle">(113 pub / 118 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
       <text x="25" y="-3" class="label">Repositórios:</text>
-      <text x="145" y="-3" class="value">16</text>
-      <text x="195" y="-4" class="subtitle">(9 pub / 7 priv)</text>
+      <text x="145" y="-3" class="value">17</text>
+      <text x="195" y="-4" class="subtitle">(9 pub / 8 priv)</text>
     </g>
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">🔀</text>
