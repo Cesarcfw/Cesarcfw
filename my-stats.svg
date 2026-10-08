@@ -32,8 +32,8 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">309</text>
-      <text x="195" y="-4" class="subtitle">(114 pub / 195 priv)</text>
+      <text x="145" y="-3" class="value">312</text>
+      <text x="195" y="-4" class="subtitle">(114 pub / 198 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
@@ -68,7 +68,7 @@
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">👥</text>
       <text x="25" y="-3" class="label">Seguidores:</text>
-      <text x="110" y="-3" class="value">22</text>
+      <text x="110" y="-3" class="value">23</text>
     </g>
   </g>
   
