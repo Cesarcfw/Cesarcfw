@@ -32,19 +32,19 @@
     <g transform="translate(0, 0)">
       <text x="0" y="0" class="icon">🔥</text>
       <text x="25" y="-3" class="label">Commits (Ano):</text>
-      <text x="145" y="-3" class="value">357</text>
-      <text x="195" y="-4" class="subtitle">(117 pub / 240 priv)</text>
+      <text x="145" y="-3" class="value">349</text>
+      <text x="195" y="-4" class="subtitle">(172 pub / 177 priv)</text>
     </g>
     <g transform="translate(0, 30)">
       <text x="0" y="0" class="icon">📁</text>
       <text x="25" y="-3" class="label">Repositórios:</text>
       <text x="145" y="-3" class="value">18</text>
-      <text x="195" y="-4" class="subtitle">(10 pub / 8 priv)</text>
+      <text x="195" y="-4" class="subtitle">(11 pub / 7 priv)</text>
     </g>
     <g transform="translate(0, 60)">
       <text x="0" y="0" class="icon">🔀</text>
       <text x="25" y="-3" class="label">Pull Requests:</text>
-      <text x="145" y="-3" class="value">15</text>
+      <text x="145" y="-3" class="value">34</text>
     </g>
     <g transform="translate(0, 90)">
       <text x="0" y="0" class="icon">❗</text>
